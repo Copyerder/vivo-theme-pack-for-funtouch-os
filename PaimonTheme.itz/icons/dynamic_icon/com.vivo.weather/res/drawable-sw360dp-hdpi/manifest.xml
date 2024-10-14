@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ICON Version ="3">
+	<weatherEnabled>false</weatherEnabled>
+	<degreetextsize>88</degreetextsize>
+	<degreetextcolor>0</degreetextcolor>
+	<weatherleftoffset>0</weatherleftoffset>
+	<weathertopoffset>0</weathertopoffset>
+	<temperatureleftoffset>72</temperatureleftoffset>
+	<temperaturetopoffset>40</temperaturetopoffset>
+	<degreeleftoffset>10</degreeleftoffset>
+	<degreetopoffset>6</degreetopoffset>
+	<background>dynamic_weather_bg.png</background>
+</ICON>

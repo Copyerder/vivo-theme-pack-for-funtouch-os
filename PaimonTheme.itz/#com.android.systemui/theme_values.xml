@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vivo_theme_values>
+<color name="vivo_switcher_text_light">#fffcfcfc</color>
+<color name="vivo_statusbar_expended_text_color">#ffffffff</color>
+<color name="btn_statusbar_shield_press_text_color">#80000000</color>
+  <color name="btn_statusbar_clean_press_text_color">#80000000</color>
+<color name="btn_statusbar_shield_normal_text_color">#ff000000</color>
+  <color name="btn_statusbar_clean_normal_text_color">#ff000000</color>
+<color name="vivo_upslide_background">#ff7483a2</color>
+<color name="vivo_upslide_divider_background">#00000000</color>
+<color name="vivo_upslide_switcher_order_background">#ff7c8eb1</color>
+<color name="vivo_upslide_switcher_order_area_background">#ff899fc3</color>
+<color name="vivo_battery_text_color_black">#ff000000</color>
+<color name="vivo_battery_text_color_white">#ffffffff</color>
+</vivo_theme_values>

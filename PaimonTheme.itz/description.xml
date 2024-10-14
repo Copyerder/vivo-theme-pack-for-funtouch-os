@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<theme> 
+  <id>667686</id>  
+  <version><![CDATA[3.0.0]]></version><uid>100068885</uid><id3>667686</id3>  
+  <titles> 
+    <title locale="zh_CN"><![CDATA[韶运]]></title> 
+  </titles>  
+  <authors> 
+    <author locale="zh_CN"><![CDATA[IF]]></author> 
+  </authors>  
+  <designers> 
+    <designer locale="zh_CN"><![CDATA[IF]]></designer> 
+  </designers>  
+  <descriptions> 
+    <description locale="zh_CN"><![CDATA[【主题介绍】：右滑弹出功能框，可切换模式，进入快捷应用，感谢下载~~
+【解锁方式】：上滑解锁
+【售后QQ群】：549027535]]></description> 
+  </descriptions>  
+  <tool locale="zh_CN"><![CDATA[02]]></tool>  
+  <toolversion><![CDATA[02v2.5.9]]></toolversion>  
+  <time>1603291847484</time>  
+  <md5result><![CDATA[fff3519b5c9d081be8c30cdcee97d089]]></md5result>  
+  <edition>2</edition>
+</theme>
